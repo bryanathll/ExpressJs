@@ -1,5 +1,5 @@
 {
-  "name": "ExpressJs",
+  "name": "expressjs",
   "version": "1.0.0",
   "description": "learn ExpressJs",
   "main": "./src/index.js",
